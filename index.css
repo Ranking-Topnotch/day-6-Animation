@@ -6,8 +6,8 @@
 .container{
     display: grid;
     place-items: center;
-    padding: 2rem;
-    background-color: rgb(177, 243, 221);
+    /* padding: 2rem; */
+    background-color: rgb(199, 243, 228);
 }
 .con{
     height: 150px;
