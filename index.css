@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: grid;
+    place-items: center;
+    padding: 2rem;
+    background-color: rgb(177, 243, 221);
+}
+.con{
+    height: 150px;
+    width: 400px;
+    background-color: rgb(38, 104, 227);
+    font-size: 5rem;
+    font-family: cursive;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 1rem;
+    /* transform: translateX(5px); */
+}
+.f1{
+    transition: all .3s ease-in-out;
+}
+.f2{
+    transition: all .6s ease-in-out;
+}
+.f3{
+    transition: all .9s ease-in-out;
+}
+.f4{
+    transition: all 1.2s ease-in-out;
+}
+.f5{
+    transition: all 1.5s ease-in-out;
+}
